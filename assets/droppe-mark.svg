@@ -1,0 +1,23 @@
+<svg width="240" height="180" viewBox="0 0 240 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>DROPPE drone medical mark</title>
+  <g filter="url(#softShadow)">
+    <path d="M63 38L104 48L119 66L74 51L18 39L63 38Z" fill="#F04438"/>
+    <path d="M177 38L136 48L121 66L166 51L222 39L177 38Z" fill="#45D36B"/>
+    <path d="M65 38L109 48L119 66L82 55L44 44L65 38Z" fill="#FFFFFF"/>
+    <path d="M175 38L131 48L121 66L158 55L196 44L175 38Z" fill="#FFFFFF"/>
+    <path d="M104 67H136L129 80H111L104 67Z" fill="#FFFFFF"/>
+    <path d="M116 79H124V91H116V79Z" fill="#FFFFFF"/>
+    <path d="M94 50L113 59M146 50L127 59" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#softShadow)">
+    <circle cx="120" cy="121" r="39" stroke="#F04438" stroke-width="10"/>
+    <path d="M120 96V146M95 121H145" stroke="#F04438" stroke-width="10" stroke-linecap="round"/>
+    <path d="M87 121H101M139 121H153" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+    <path d="M120 88C138.2 88 153 102.8 153 121" stroke="#E9EEF7" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <defs>
+    <filter id="softShadow" x="0" y="20" width="240" height="155" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#020814" flood-opacity=".28"/>
+    </filter>
+  </defs>
+</svg>
